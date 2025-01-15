@@ -1,7 +1,7 @@
 <h1 align="center">Rebrandly</h1>
 
 <p align="center">
-  <strong>Rebrandly: Simplify your links. Amplify your brand.</strong>
+  <strong>Simplify your links. Amplify your brand.</strong>
 </p>
 
 <p align="center">
