@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="path-to-your-image/banner.png" alt="Your Banner Description" />
+  <img src="github.png" alt="Rebrandly" />
 </p>
 <h1 align="center">Rebrandly</h1>
 
