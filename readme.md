@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="path-to-your-image/banner.png" alt="Your Banner Description" />
+</p>
 <h1 align="center">Rebrandly</h1>
 
 <p align="center">
