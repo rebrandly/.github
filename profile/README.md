@@ -5,7 +5,7 @@
 <h1 align="center">Rebrandly.</h1>
 
 <p align="center">
-  <strong>Simplify your links. Amplify your brand.</strong>
+  <strong>High volume link management with API and clickstream integration</strong>
 </p>
 
 <p align="center">
